@@ -23,9 +23,4 @@ Inicio
    escreval("Escreva = ", codigo)
    escreval("Dados da pessoa: genero ", genero, "e idade ", idade)
    
-
-   
-   
-
-
 Fimalgoritmo
