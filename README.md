@@ -1,2 +1,2 @@
-# Exerc-cios-de-Estrutura-Sequencial
+# Exercicios-de-Estrutura-Sequencial
 Exercícios feitos pelo VisualG para aprimorar meus conhecimentos de algoritmos e lógica de programação
